@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    background-color: red;
+}
+
+.homelinks {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.one {
+    color: #c047c0;
+}
+.two {
+    color: #ffff00
+}
+.three {
+    color: #008000
+}
+.image {
+    height: 200px;
+    width: auto;
+}
+
+.homelist {
+    text-align: center;
+    list-style: none;
+}
+
+body {
+    background-color: rgb(108, 188, 249);
+}
